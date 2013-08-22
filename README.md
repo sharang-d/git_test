@@ -1,1 +1,1 @@
-My repository for RubyLearning.org's Git-GitHub Course work
+Course work for RubyLearning.org's <b>Git-GitHub</b> Course.
